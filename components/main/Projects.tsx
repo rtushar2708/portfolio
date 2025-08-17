@@ -11,22 +11,17 @@ const Projects = () => {
       <div className='h-full w-full flex flex-col md:flex-row gap-10 px-10'>
         <ProjectCard
           src='/NextWebsite.png'
-          title='Mordern Next.js Portfolio Website'
-          description='A personal portfolio website showcasing my skills and projects.'
+          title='AI Powered Mock Interview Platform'
+          description='A Platform where you can create your own personalized mock interview and get AI generated feedback'
         />
         <ProjectCard
           src='/CardImage.png'
-          title='Intractive Card Component Website'
-          description='A personal portfolio website showcasing my skills and projects.'
+          title='CodingCollab - A Collaborative Coding Platform'
+          description='A platform where you can collaborate with your friends on coding problems in real-time.'
         />
         <ProjectCard
           src='/SpaceWebsite.png'
-          title='Space Themed Website'
-          description='A personal portfolio website showcasing my skills and projects.'
-        />
-        <ProjectCard
-          src='/SpaceWebsite.png'
-          title='Space Themed Website'
+          title='My Personal Portfolio Website'
           description='A personal portfolio website showcasing my skills and projects.'
         />
       </div>
